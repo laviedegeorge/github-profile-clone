@@ -142,6 +142,11 @@ ul, li {
   border-radius: 999px;
   margin-right: .5rem;
 }
+
+.profile-pics {
+  width: 25px;
+  border-radius: 100%;
+}
 /* ====== HEADER STOPS HERE =========== */
 
 
@@ -222,7 +227,7 @@ nav ul li span {
   margin-right: .8rem;
 }
 
-.notification-cont, .notification-cont .bell, .notification-cont .plus, .notification-cont .chevron-down  {
+.notification-cont, .bell, .plus,.chevron-down  {
   display: flex;
   align-items: center;
   margin-left: 1rem;
